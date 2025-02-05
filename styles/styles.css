@@ -5,11 +5,11 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .container {
- max-width:  1360px;
+ max-width:  1460px;
  margin: 0 auto;
  padding: 0 20px;
 }
